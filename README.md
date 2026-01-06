@@ -1,2 +1,5 @@
 ![FileStructure](https://github.com/socoolvro/fist-combat/blob/main/Images/FileStructure.png?raw=true)
 ![FileStructure2](https://github.com/socoolvro/fist-combat/blob/main/Images/FileStructure2.png?raw=true)
+![Snippet1](https://github.com/socoolvro/fist-combat/blob/main/Images/Snippet1.png?raw=true)
+![Snippet2](https://github.com/socoolvro/fist-combat/blob/main/Images/Snippet2.png?raw=true)
+![Snippet3](https://github.com/socoolvro/fist-combat/blob/main/Images/Snippet3.png?raw=true)
